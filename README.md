@@ -4,8 +4,10 @@ pico.js
 Simple interface for a real-time audio processing
 
 ### Reference/Demo ###
-[Demo](http://AbhishekGhosh.github.com/pico.js) 
-//
+[Demo](http://mohayonao.github.com/pico.js/) 
+
+### Steps to Install ###
+
 [Guide to Install Pico](http://thecustomizewindows.com/2012/12/a-basic-real-time-audio-processing-instance-on-cloud-of-your-own/)
 
 ### Change log ###
